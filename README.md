@@ -2,10 +2,12 @@
   <h1>Vlad</h1>
 
   <h3>About me:</h3>
-  <p>🎮 Unity Developer<br>
-     🤖 First Tech Challenge member<br>
+  <p>
+     🌱 Free and Open Source Software advocate<br>
      💡 Future Electrical Engineering graduate<br>
-     🌱 Free and Open Source Software advocate
+     🤖 First Tech Challenge member<br>
+     🎮 Unity Developer<br>
+     🇨🇭🤚 Volunteer
   </p>
 
   <h3>Languages:</h3>
