@@ -15,6 +15,12 @@
   🌱 Free and Open Source Software advocate
 </p>
 
+<p align="center">
+  🇷🇴 Romanian (Native)<br>
+  🇬🇧 English (CEFR B2 to C1)<br>
+  🇪🇺 Interslavic / Меджусловјанскы (Learning)<br>
+</p>
+
 <h3 align="center">Reach out:</h3>
 
 <p align="center">
