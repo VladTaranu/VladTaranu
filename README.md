@@ -28,7 +28,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118958&center=true&random=false&width=435&lines=pew+pew+pew+pancakes+%F0%9F%A5%9E">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&random=false&width=435&lines=Pew+pew+pew+pancakes+%F0%9F%A5%9E">
     </a>
   </p>
 </div>
