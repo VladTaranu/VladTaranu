@@ -7,7 +7,7 @@
      💡 Future Electrical Engineering graduate<br>
      🤖 First Tech Challenge member<br>
      🎮 Unity Developer<br>
-     🇨🇭🤚 Volunteer
+     🇨🇭 Red Cross Volunteer
   </p>
 
   <h3>Languages:</h3>
