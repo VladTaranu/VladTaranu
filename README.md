@@ -30,6 +30,6 @@
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&random=false&width=435&lines=Pew+pew+pew+pancakes+%F0%9F%A5%9E">
     </a>
-<p style="font-size: 10px;">thanks for visiting.</p> 🥞
+<p style="font-size: 6px;">thanks for visiting.</p> 🥞
   </p>
 </div>
