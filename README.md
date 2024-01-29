@@ -31,5 +31,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&random=false&width=435&lines=Pew+pew+pew+pancakes+%F0%9F%A5%9E">
     </a>
     <small>thanks for visiting 🥞</small>
+<p>This is normal text and <span style="font-size:10px;">this is 10px text</span>.</p>
   </p>
 </div>
