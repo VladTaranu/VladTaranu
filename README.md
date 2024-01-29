@@ -3,9 +3,9 @@
 
   <h3>About me:</h3>
   <p>
-     🌱 Free and Open Source Software advocate<br>
-     💡 Future Electrical Engineering graduate<br>
-     🤖 First Tech Challenge member<br>
+     🌱 FOSS advocate<br>
+     💡 Future EE graduate<br>
+     🤖 FTC member<br>
      🎮 Unity Developer<br>
      🇨🇭 Red Cross Volunteer
   </p>
