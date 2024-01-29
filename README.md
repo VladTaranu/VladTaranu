@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vlad</h1>
+  <h1>Vlad Taranu</h1>
 
   <h3>About me:</h3>
   <p>
