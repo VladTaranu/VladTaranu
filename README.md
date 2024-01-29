@@ -27,6 +27,6 @@
   </p>
 
   <p>
-    <small>thanks for visiting 🥞</small>
+    <small>🥞</small>
   </p>
 </div>
